@@ -1,0 +1,61 @@
+Category,Item,Notes
+Symptom,Balance problems,
+Symptom,Fainting,
+Symptom,Nausea,
+Symptom,Brain fog,"Also called forgetfulness or trouble focusing"
+Symptom,Fast heart rate,Tachycardia
+Symptom,Pinpoint pupils,
+Symptom,Bowel changes,Constipation or diarrhea
+Symptom,Fatigue,Ongoing tiredness
+Symptom,Sexual dysfunction,
+Symptom,Chest pain,
+Symptom,Frequent urination,Or urinary incontinence
+Symptom,Shortness of breath,Dyspnea
+Symptom,Clammy skin,
+Symptom,Heart palpitations,
+Symptom,Sleep issues,
+Symptom,Swallowing trouble,Dysphagia
+Symptom,Irregular heartbeat,Arrhythmia
+Symptom,Light sensitivity,
+Symptom,Dizziness,Especially when standing
+Symptom,Low blood sugar,Hypoglycemia
+Symptom,Sweating changes,More or less than usual
+Symptom,Dry/watery eyes,
+Symptom,Migraines,
+Symptom,Body temp swings,
+Symptom,Drooling,"Anxiety"
+Symptom,Mood swings,"Blurred or light-adapting vision"
+Symptom,Vision problems,"Heart rate does not adjust to activity"
+Symptom,Exercise intolerance,
+Symptom,Runny nose,
+Symptom,Vertigo,"Inherited; more common in Ashkenazi Jewish"
+Symptom,Familial dysautonomia,"Unknown cause"
+Symptom,Idiopathic dysautonomia,"Type 2"
+Cause (Primary),Diabetes,"Postural Orthostatic Tachycardia Syndrome"
+Cause (Primary),POTS,"Also known as Lou Gehrigs disease"
+Cause (Secondary),ALS,
+Cause (Secondary),Lupus,
+Cause (Secondary),Parkinsons disease,"Also known as Ehlers-Danlos Syndrome"
+Cause (Secondary),COVID-19,
+Cause (Secondary),EDS,"Multiple sclerosis"
+Cause (Secondary),RA,
+Cause (Secondary),MS,
+Cause (Secondary),Chiari malformation,
+Cause (Secondary),Spinal cord injury,"Autoimmune autonomic ganglionopathy"
+Cause (Secondary),TBI,
+Cause (Secondary),AAG,
+Cause (Secondary),Lyme disease,
+Cause (Secondary),Sjögren’s syndrome,
+Cause (Secondary),Sarcoidosis,
+Cause (Secondary),Porphyria,
+Cause (Secondary),Botulism,
+Trigger,Alcohol,
+Trigger,Dehydration,
+Trigger,Stress,
+Trigger,Tight clothing,
+Trigger,Heat,
+Trigger,Drug use,
+Emergency Symptom,Chest pain,
+Emergency Symptom,Trouble breathing,
+Emergency Symptom,Irregular heartbeat,
+Emergency Symptom,Heart palpitations,
