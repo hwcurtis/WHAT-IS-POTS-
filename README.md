@@ -17,30 +17,36 @@ In closing, I just have one thing to say. I hope it works. I've learned more tha
 LAST BUT NOT LEAST   Please forgive if too many folders, or repeating Information, there is a reason to the madness and I was told Various sources were allowed.. The Struggle 
 was real in finding information just on POTS ......
 
+I used Pandas to manipulate the dataset and required to use NOTEBOOK to display 
 
+Tableau was also used, to help "display" the effects Covid has had over the USA in the past and to this date.. 
+
+Please use Clone my github account  "WHAT IS POTS" to your Visual Studio account to get the full effects of my work 
 
 RESEARCH sources-
 
-www.dysautonomiainternational.org
+[Dysautonomia International](https://www.dysautonomiainternational.org)
 This is the one my daughter told me about:
-https://www.standinguptopots.org
-https://my.clevelandclinic.org/health/diseases/16560-postural-orthostatic-tachycardia-syndrome-pots
+[Standing Up To POTS](https://www.standinguptopots.org)
+
+[Cleveland Clinic - POTS](https://my.clevelandclinic.org/health/diseases/16560-postural-orthostatic-tachycardia-syndrome-pots)
+
 
 Research:
-https://www.ahajournals.org/doi/full/10.1161/JAHA.123.033485
+[JAHA Journal Article](https://www.ahajournals.org/doi/full/10.1161/JAHA.123.033485)
 
-https://my.clevelandclinic.org/health/diseases/6004-dysautonomia
+[Cleveland Clinic - Dysautonomia](https://my.clevelandclinic.org/health/diseases/6004-dysautonomia)
 
-https://pmc.ncbi.nlm.nih.gov/articles/PMC10065129/
+[PMC Article on POTS](https://pmc.ncbi.nlm.nih.gov/articles/PMC10065129/)
 
-https://academic.oup.com/europace/article/11/1/18/491154
+[Europace Journal Article](https://academic.oup.com/europace/article/11/1/18/491154)
 
-https://www.hopkinsmedicine.org/health/conditions-and-diseases/postural-orthostatic-tachycardia-syndrome-pots
+[Johns Hopkins Medicine - POTS](https://www.hopkinsmedicine.org/health/conditions-and-diseases/postural-orthostatic-tachycardia-syndrome-pots)
 
-https://www.dysautonomiasupport.org/dysautonomia-at-work/
+[Dysautonomia Support at Work](https://www.dysautonomiasupport.org/dysautonomia-at-work/)
 
-TABLEAU LINK
-https://public.tableau.com/app/profile/hope.curtis/viz/Similar_17534886471550/OVERVIEWOFCovid?publish=yes
+TABLEAU LINK  
+[Interactive Tableau Map and Charts](https://public.tableau.com/app/profile/hope.curtis/viz/Similar_17534886471550/OVERVIEWOFCovid?publish=yes)
 
 
 
